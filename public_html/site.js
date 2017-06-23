@@ -1,3 +1,4 @@
+var xcxcxc;
 var player = "X";
 function plansza(colcount, rowcount) {
     this.pola = [];
